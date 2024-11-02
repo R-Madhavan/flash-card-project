@@ -50,6 +50,10 @@ flash-card-project/
 
 - Known words are saved to `words_to_learn.csv`, allowing progress to continue from where you left off next time.
 
+## Output
+![image](https://github.com/user-attachments/assets/2745e682-f12e-4695-9015-fe7718df46b5)
+![image](https://github.com/user-attachments/assets/cf9291b2-6e60-414b-9528-0fd4696e4dab)
+
 ## Dependencies
 
 - Python 3.x
