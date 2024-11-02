@@ -12,8 +12,8 @@ Flashy is a language-learning flashcard app built with Python's Tkinter GUI tool
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flashy.git
-   cd flashy
+   git clone https://github.com/your-username/flash-card-project.git
+   cd flash-card-project
    ```
 
 2. Install the required libraries:
@@ -28,7 +28,7 @@ Flashy is a language-learning flashcard app built with Python's Tkinter GUI tool
 ## File Structure
 
 ```
-flashy/
+flash-card-project/
 ├── data/
 │   ├── french_words.csv       # The original French-English word list
 │   └── words_to_learn.csv     # Tracks remaining words to learn (This file will be created once the program start's running)
