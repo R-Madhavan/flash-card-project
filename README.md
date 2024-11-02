@@ -52,6 +52,7 @@ flash-card-project/
 
 ## Output
 <img src="https://github.com/user-attachments/assets/2745e682-f12e-4695-9015-fe7718df46b5" width="400" alt="Flashcard Front"/>
+after 3sec
 <img src="https://github.com/user-attachments/assets/cf9291b2-6e60-414b-9528-0fd4696e4dab" width="400" alt="Flashcard Back"/>
 
 ## Dependencies
